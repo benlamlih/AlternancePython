@@ -1,3 +1,6 @@
+__author__ = "Mohammed Benlamlih"
+__email__ = "benlamlih.med@gmail.com"
+
 import requests 
 
 
@@ -15,7 +18,6 @@ android = "\U0001F916"
 
 
 url = "https://random-data-api.com/api/internet_stuff/random_internet_stuff"
-#url = "http://10.255.255.1"
 
 #api request
 try:
