@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 __author__ = "Mohammed Benlamlih"
 __email__ = "benlamlih.med@gmail.com"
 
